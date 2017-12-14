@@ -1,0 +1,3 @@
+The following strings were intercepted on the DMU_STAFF network but we don't know what it says. Can you decrypt it somehow for us?
+
+XA HOM EXTNGLS AEGLG XLG OXJR AEWJDS ZG HP NJPZ XJH OXJR AEWJDS ZG HPJ'A. TLRQAP WS PJG PF AEPSG AEWJDS ZG NJPZ VXLGIR XJRAEWJD XVPMA. TMA MS SPOG SIXTN, ZG'LG ALRWJD PML VGSA. HOMEXTNGLS{ZG_HPJ'A_NJPZ_TLRQAP}

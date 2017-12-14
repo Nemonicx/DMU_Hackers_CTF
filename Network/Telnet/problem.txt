@@ -1,0 +1,4 @@
+Find the login and password.
+
+Flag format with be DMUHACKERS{USER_PASSWORD}
+e.g DMUHACKERS{chr1s_myp455w0rd}

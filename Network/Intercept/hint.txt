@@ -1,0 +1,1 @@
+Hint: Login is usually done through a POST request.

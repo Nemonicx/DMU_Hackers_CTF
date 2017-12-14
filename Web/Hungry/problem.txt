@@ -1,0 +1,4 @@
+We need to access the admin page to get the flag but we aren't authorised! Do you know how to get in?
+
+The admin page is at the top.
+/adminpage

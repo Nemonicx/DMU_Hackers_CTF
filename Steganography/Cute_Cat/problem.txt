@@ -1,0 +1,1 @@
+This cat isn't as cute as it seems. It's hiding some valuable information that we need. Find a way to extract the information.

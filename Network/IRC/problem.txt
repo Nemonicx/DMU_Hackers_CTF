@@ -1,0 +1,2 @@
+The flag was leaked in an IRC conversation.
+Can you find the flag?
